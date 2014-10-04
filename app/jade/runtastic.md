@@ -1,0 +1,1 @@
+Runtastic bietet Produkte und Dienstleistungen rund um die Erfassung und Verwaltung von Sportdaten an, um Menschen zur Sportausübung zu bewegen und mit Gleichgesinnten zu vernetzen. Egal ob Laufen, Radfahren, Walken, Skifahren oder jegliche andere Sportart, Runtastic macht deine sportliche Aktivitäten für dich aufregender - denn der Spaß steht im Vordergrund.

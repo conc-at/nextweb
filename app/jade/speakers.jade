@@ -54,9 +54,6 @@ section#speakers
                 i.fa.fa-globe
       .col-md-6.portfolio-item
         span.portfolio-link
-          //- .portfolio-hover
-          //-   .portfolio-hover-content
-              //- i.fa.fa-plus.fa-3x
           img(
             src='images/speakers/ola_gasidlo.jpg', 
             srcset='images/speakers/ola_gasidlo@2x.jpg 2x',
@@ -75,6 +72,45 @@ section#speakers
             li
               a(href='https://github.com/zoepage')
                 i.fa.fa-github-alt
+
+    .row#runtastic
+      .col-lg-12.text-center
+        iframe(
+          width='560',
+          height='315',
+          src='//www.youtube.com/embed/FMq1fbgQrSg',
+          frameborder='0',
+          allowfullscreen
+        )
+        br
+        br
+        .section-subheading.text-muted Makes sports funtastic!
+
+    .row
+      .col-md-8.col-md-offset-2
+        include:markdown runtastic.md
+        br
+        br
+        br
+
+    .row
+      .col-md-6.col-md-offset-3.portfolio-item
+        span.portfolio-link
+          img(
+            src='images/speakers/simon_lasselsberger.jpg',
+            srcset='images/speakers/simon_lasselsberger@2x.jpg 2x',
+            alt='Simon Lasselsberger',
+            width='400',
+            height='289'
+          )
+        .portfolio-caption
+          h4 Simon Lasselsberger
+          p.text-muted
+            a(href='https://runtastic.com') Runtastic
+          ul.list-inline.social-buttons
+            li
+              a(href='https://twitter.com/lasssim')
+                i.fa.fa-twitter
 
     //- .row#keynote
     //-   .col-md-6.col-md-offset-3.portfolio-item
