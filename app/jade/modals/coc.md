@@ -12,12 +12,11 @@ Die Teammitglieder können euch bei allen Problemen helfen. Dies schließt Konta
 
 Wir erwarten von allen Teilnehmern*innen die Einhaltung dieser Regeln auf der gesamten Veranstaltung, den Workshops und auf allen weiteren Zusammenkünften im Zusammenhang mit dieser Usergroup.
 
-| Contact   | Stephan Bönnemann
+| Contact   | Hannes Moser
 | :-------- | :-
-| Twitter   | [@boennemann](https://twitter.com/boennemann)
-| Email     | [stephan@boennemann.me](mailto:stephan@boennemann.me)
-| Phone(AT) | [+4915142318681](tel:004915142318681)
-| Phone(DE) | [+436603936464](tel:00436603936464)
+| Twitter   | [@eliias](https://twitter.com/eliias)
+| Email     | [hannes.moser@fh-salzburg.ac.at](mailto:hannes.moser@fh-salzburg.ac.at)
+| Phone(AT) | [+00436641563323](tel:00436641563323)
 
 <br>
 
