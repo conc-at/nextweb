@@ -1,12 +1,19 @@
+# system
+.DS_Store
+
 # IDE
-/.idea
+.idea/
 
 # node
-node_modules
+node_modules/
 
 # bower
-bower_components
+bower_components/
 
 # build
-dist
-.tmp
+dist/
+.tmp/
+
+# docs
+docs/
+
