@@ -212,6 +212,7 @@ module.exports = function (grunt) {
             'favicons/**/*.*',
             '*.{ico,png,txt}',
             'images/**/*.webp',
+            'images/*.pdf',
             'styles/fonts/**/*.*'
           ]
         }, {
