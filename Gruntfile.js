@@ -1,3 +1,5 @@
+var serveStatic = require('serve-static');
+
 module.exports = function (grunt) {
   'use strict';
 
@@ -62,9 +64,9 @@ module.exports = function (grunt) {
         options: {
           middleware: function(connect) {
             return [
-              connect.static('.tmp'),
-              connect().use('/bower_components', connect.static('./bower_components')),
-              connect.static(config.app)
+              serveStatic('.tmp'),
+              connect().use('/bower_components', serveStatic('./bower_components')),
+              serveStatic(config.app)
             ];
           }
         }
