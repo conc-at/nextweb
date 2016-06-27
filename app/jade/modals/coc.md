@@ -12,11 +12,10 @@ Die Teammitglieder können euch bei allen Problemen helfen. Dies schließt Konta
 
 Wir erwarten von allen Teilnehmern*innen die Einhaltung dieser Regeln auf der gesamten Veranstaltung, den Workshops und auf allen weiteren Zusammenkünften im Zusammenhang mit dieser Usergroup.
 
-| Contact   | Hannes Moser
+| Contact   | Brigitte Jellinek
 | :-------- | :-
-| Twitter   | [@eliias](https://twitter.com/eliias)
-| Email     | [hannes.moser@fh-salzburg.ac.at](mailto:hannes.moser@fh-salzburg.ac.at)
-| Phone(AT) | [+00436641563323](tel:00436641563323)
+| Twitter   | [@salzburgwebdev](https://twitter.com/salzburgwebdev)
+| Email     | [#{email}](mailto:#{email})
 
 <br>
 

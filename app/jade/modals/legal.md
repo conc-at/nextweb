@@ -21,12 +21,11 @@
 
 Für den Inhalt der Website verantwortlich:
 
-| Contact   | Stephan Bönnemann
+| Contact   | Brigitte Jellinek
 | :-------- | :-
-| Twitter   | [@boennemann](https://twitter.com/boennemann)
-| Email     | [stephan@boennemann.me](mailto:stephan@boennemann.me)
-| Phone(AT) | [+4915142318681](tel:004915142318681)
-| Phone(DE) | [+436603936464](tel:00436603936464)
+| Twitter   | [@bjelline](https://twitter.com/bjelline)
+| Email     | [#{email}](mailto:#{email})
+
 
 <br>
 
@@ -34,7 +33,7 @@ Für den Inhalt der Website verantwortlich:
 | :-------- | :-
 | Twitter   | [@eliias](https://twitter.com/eliias)
 | Email     | [hannes.moser@fh-salzburg.ac.at](mailto:hannes.moser@fh-salzburg.ac.at)
-| Phone(AT) | [+436641563323](tel:00436641563323)
+
 
 <br>
 
