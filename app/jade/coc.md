@@ -2,7 +2,7 @@ Alle Besucher\*innen, Redner\*innen, Sponsor\*innen und Freiwillige auf diesem B
 
 #### Brauchst du Hilfe?
 
-Bitte sende einen Tweet/eine Direktnachricht an [@salzburgwebdev](https://twitter.com/salzburgwebdev) oder schicke uns eine [E-Mail](mailto:stephan@boennemann.me), oder sprich uns persönlich an.
+Bitte sende einen Tweet/eine Direktnachricht an [@salzburgwebdev](https://twitter.com/salzburgwebdev) oder schicke uns eine [E-Mail](mailto:#{email}), oder sprich uns persönlich an.
 
 #### Die Kurzfassung
 
