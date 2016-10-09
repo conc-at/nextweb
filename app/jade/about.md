@@ -6,6 +6,8 @@ Der Ablaufplan für sämtliche Präsentationen wird erst am Tag selbst erstellt.
 
 Es gibt viele Möglichkeiten sich zu beteiligen. Wenn Du dir dein [Ticket](#tickets) gesichert hast, kannst du einen Vortrag anbieten oder Dein Projekt ausstellen.
 
-Am Freitag gibt es Talks und abends eine Projektausstellung. Auch am Samstag wird es Talks geben, diese werden parallel von einem Workshopprogram begleitet. Am Sonntag findet dann das *Speakers Retreat* statt – ein Brunch für alle Aussteller*innen und Vortragende im [Coworkingspace Salzburg](http://coworkingsalzburg.com/).
+Am Freitag gibt es Talks und abends eine Projektausstellung. Auch am Samstag wird es Talks geben, diese werden parallel von einem Workshopprogram begleitet. 
+
+ACHTUNG: Diesmal gibt es *kein* Speakers Retreat am Sonntag!
 
 *Even though sessions will be mostly German we would love to hear your talk in English*.
