@@ -1,3 +1,5 @@
-Du bietest deinen Vortrag am ersten Tag, beim *Session Planning* an, und wenn Du ein Publikum findest, dann wird dein Vortrag auf den Zeitplan genommen. Wir freuen uns aber auch über eine [E-Mail](mailto:#{email}) mit *Vorankündigung* eines Themas. 
+Du bietest deinen Vortrag am ersten Tag, beim *Session Planning* an, und wenn Du ein Publikum findest, dann wird dein Vortrag auf den [Zeitplan](http://lanyrd.com/2016/barcamp-salzburg-october/) genommen. Wir freuen uns aber auch über eine [E-Mail](mailto:#{email}) mit *Vorankündigung* eines Themas. 
 
 Es gibt 40- und 20-minütige Vorträge, 6-minütige Lightning Talks und 1-4-stündige Workshops (Diese bitte unbedingt per [E-Mail](mailto:#{email}) ankündigen). Bei der Ausstellung am Freitagabend kannst Du Dein Open Source Projekt, ein Projekt aus dem Studium oder der Ausbildung präsentieren. Sponsor*innen stellen Ihre Firma und Job-Angebote vor.
+
+Die Vorträge werden [auf Lanyrd](http://lanyrd.com/2016/barcamp-salzburg-october/) dokumentiert.
