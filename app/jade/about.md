@@ -8,6 +8,4 @@ Es gibt viele Möglichkeiten sich zu beteiligen!
 
 Am Freitag gibt es Talks und abends eine Projektausstellung. Auch am Samstag wird es Talks geben, diese werden parallel von einem Workshopprogram begleitet. 
 
-ACHTUNG: Diesmal gibt es *kein* Speakers Retreat am Sonntag!
-
 *Even though sessions will be mostly German we would love to hear your talk in English*.
