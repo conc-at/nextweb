@@ -39,5 +39,8 @@
     "test": "grunt build",
     "start": "grunt serve:dist",
     "install": "bower install"
+  },
+  "dependencies": {
+    "jstransformer-marked": "^1.0.2"
   }
 }
