@@ -1,4 +1,4 @@
-# conc.at
+# barcamp-sbg.at
 
 ```
 npm install -g grunt-cli bower
