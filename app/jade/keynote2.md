@@ -1,0 +1,3 @@
+Der Workshop selbst ist gratis. Die Registrierung erfordert 5€ Pfand, die du am Tag des Workshops zurück bekommst. Auf diese Weise möchten wir *no-shows* vermeiden um den Workshop komplett auffüllen zu können. 
+
+Der Workshop selbst ist gratis. Die Registrierung erfordert 5€ Pfand, die du am Tag des Workshops zurück bekommst. Auf diese Weise möchten wir *no-shows* vermeiden um den Workshop komplett auffüllen zu können. 
