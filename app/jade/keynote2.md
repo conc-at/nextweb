@@ -1,3 +1,1 @@
-Der Workshop selbst ist gratis. Die Registrierung erfordert 5€ Pfand, die du am Tag des Workshops zurück bekommst. Auf diese Weise möchten wir *no-shows* vermeiden um den Workshop komplett auffüllen zu können. 
-
-Der Workshop selbst ist gratis. Die Registrierung erfordert 5€ Pfand, die du am Tag des Workshops zurück bekommst. Auf diese Weise möchten wir *no-shows* vermeiden um den Workshop komplett auffüllen zu können. 
+Julian Mautner is the founder, CTO and passionate game designer at stillalive studios in Innsbruck, Austria. Known for their successfull kickstarter effort with Son of Nor, Julian will talk about the development of the followup title Drone Swarm, the technological barriers encountered when having more than 10.000 units on screen in Unity3D as well as production with a internationally distributed team.
