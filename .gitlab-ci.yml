@@ -3,6 +3,7 @@ image: node:6
 pages:
   stage: deploy
   script:
+    - apt-get -qq update && apt-get -qq -y install bzip2
     - npm install -g grunt-cli bower
     - npm install
     - bower install --allow-root 
