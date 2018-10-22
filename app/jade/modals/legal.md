@@ -24,15 +24,9 @@ Für den Inhalt der Website verantwortlich:
 | Contact   | Brigitte Jellinek
 | :-------- | :-
 | Twitter   | [@bjelline](https://twitter.com/bjelline)
-| Email     | [#{email}](mailto:#{email})
+| Email     | [brigitte.jellinek@fh-salzburg.ac.at](mailto:brigitte.jellinek@fh-salzburg.ac.at)
 
 
-<br>
-
-| Contact   | Hannes Moser
-| :-------- | :-
-| Twitter   | [@eliias](https://twitter.com/eliias)
-| Email     | [hannes.moser@fh-salzburg.ac.at](mailto:hannes.moser@fh-salzburg.ac.at)
 
 
 <br>
