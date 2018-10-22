@@ -1,1 +1,3 @@
-Randy Connolly, from Mount Royal University in Calgary, Canada, will discuss his experiences as principal author and designer of the textbook Fundamentals of Web Development, which is used at over 120 universities world-wide and is used by thousands of students every year. He will focus on the newly published second edition, and will discuss such issues as collaborating with outsourcing firms, the status of books in contemporary learning environments, dealing with copyright lawyers and pirating, and what practicing web developers can learn from the process of constructing and revising a textbook. 
+## Keynote 1
+
+Wird noch bekannt gegeben

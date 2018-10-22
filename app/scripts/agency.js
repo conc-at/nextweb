@@ -34,67 +34,36 @@ if (window.applicationCache.status === window.applicationCache.UPDATEREADY) {
 }
 
 // Map
-/*global google:false */
+
+var map;
+
 $(function() {
-  var map;
-  if (!google) {
-    return;
-  }
-  var $map = $('#map').show();
+  map = L.map('map').setView([47.761026, 13.069313], 11);
+  var uni = 'Fachhochschule Salzburg';
 
-  var setScroll = function(option) {
-    if (!map) {
-      return;
-    }
-    map.setOptions({scrollwheel: option});
-  };
 
-  var initialize = function() {
-    map = new google.maps.Map($map[0], {
-      zoom: 11,
-      scrollwheel: false,
-      center: new google.maps.LatLng(47.761026, 13.069313)
-    });
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
 
-    var uni = 'Fachhochschule Salzburg';
-    var marker = new google.maps.Marker({
-      position: new google.maps.LatLng(47.723379, 13.087777),
-      map: map,
-      title: uni
-    });
+  L.marker([47.723379, 13.087777]).addTo(map)
+      .bindPopup( '<h2 class="section-heading">Der Veranstaltungsort</h2>' +
+          '<h3 class="section-subheading text-muted">' +
+            uni +
+            ' <a href="https://www.google.com/maps/place/Fachhochschule+Salzburg/" title="Open in Google Maps">' +
+              '<i class="fa fa-external-link"></i>' +
+            '</a>' +
+          '</h3>')
+      .openPopup();
 
-    var infowindow = new google.maps.InfoWindow({
-      content: '<h2 class="section-heading">Der Veranstaltungsort</h2>' +
-        '<h3 class="section-subheading text-muted">' +
-          uni +
-          ' <a href="https://www.google.com/maps/place/Fachhochschule+Salzburg/" title="Open in Google Maps">' +
-            '<i class="fa fa-external-link"></i>' +
-          '</a>' +
-        '</h3>'
-    });
+  map.scrollWheelZoom.disable(); 
+  setTimeout(function(){ map.invalidateSize()}, 100);
 
-    infowindow.open(map, marker);
-
-    google.maps.event.addListener(marker, 'click', function() {
-      infowindow.open(map, marker);
-    });
-
-    google.maps.event.addListener(map, 'mousedown', function() {
-      setScroll(true);
-    });
-  };
-
-  $('body').on('mousedown', function(event) {
-    var insideMap = $(event.target).parents('#map').length > 0;
-
-    if(!insideMap) {
-      setScroll(false);
-    }
-  });
-
-  $(window).scroll(function() {
-    setScroll(false);
-  });
-
-  google.maps.event.addDomListener(window, 'load', initialize);
+  map.on('resize', function () {
+      map.invalidateSize();
+  });  
 });
+
+
+
+

@@ -3,39 +3,7 @@ section#keynotes
     .row
       .col-lg-12.text-center
         h2.section-heading Keynotes November 2018  
-    .row#connolly
-      .col-lg-12
-        .row
-          .col-md-6
-            .team-member
-              img.img-responsive.img-circle(
-                width='225',
-                height='225',
-                src='images/team/michael.jpg',
-                srcset='images/team/michael@2x.jpg 2x',
-                alt='Michael Domhardt'
-                id='doppel1'
-              )
-              img.img-responsive.img-circle(
-                width='225',
-                height='225',
-                src='images/guenther_grall.jpg',
-                srcset='images/guenther_grall@2x.jpg 2x, images/guenther_grall@3x.jpg 3x',
-                alt='Günther Grall'
-                id='doppel2'
-              )
-              h4 Hilmar Linder und Maria Akeson
-              p.text-muted
-                a(href='http://www.mtroyal.ca/') Mount Royal University, Canada
-              ul.list-inline.social-buttons
-                li
-                  a(href='http://www.randyconnolly.com/')
-                    i.fa.fa-globe          
-          .col-lg-6
-            br
-            br
-            include:markdown keynote1.md
-      .row#mautner
+    //- .row#morning
         .col-lg-12
           .row
             .col-md-6
@@ -57,4 +25,48 @@ section#keynotes
             .col-lg-6
               br
               br         
-              include:markdown keynote2.md
+              include:markdown keynote1.md        
+    .row#afternoon
+      .col-lg-12
+        .row
+          .col-md-6
+            .team-member
+              img.img-responsive.img-circle(
+                width='225',
+                height='225',
+                src='images/speakers/michael_domhardt.jpg',
+                srcset='images/speakers/michael_domhardt@2x.jpg 2x',
+                alt='Michael Domhardt'
+                id='vierfach1'
+              )
+              img.img-responsive.img-circle(
+                width='225',
+                height='225',
+                src='images/speakers/hilmar_linder.jpg',
+                srcset='images/speakers/hilmar_linder@2x.jpg 2x',
+                alt='Hilmar linder'
+                id='vierfach2'
+              )
+              img.img-responsive.img-circle(
+                width='225',
+                height='225',
+                src='images/speakers/maria_akesson.jpg',
+                alt='Maria Åkesson'
+                id='vierfach3'
+              )
+              img.img-responsive.img-circle(
+                width='225',
+                height='225',
+                src='images/speakers/michel_thomsen.jpg',
+                alt='Michel Thomsen'
+                id='vierfach4'
+              )              
+              h4 Hilmar&nbsp;Linder, Michael&nbsp;Domhardt, Michel&nbsp;Thomson&nbsp;and&nbsp;Maria&nbsp;Åkesson 
+              p.text-muted
+                a(href='http://www.fh-salzburg.ac.at/') FH Salzburg
+                | &nbsp;
+                a(href='https://www.hh.se/') Högskolan i Halmstad         
+          .col-lg-6
+            br
+            br
+            include:markdown keynote2.md
