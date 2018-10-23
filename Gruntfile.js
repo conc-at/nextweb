@@ -234,8 +234,8 @@ module.exports = function (grunt) {
         {
           expand: true,
           dot: true,
-          cwd: 'bower_components/font-awesome/',
-          src: ['css/*.min.css'],
+          cwd: 'bower_components/font-awesome/css',
+          src: ['**/*.min.css'],
           dest: '<%= config.dist %>/styles'
         },
       {
@@ -386,8 +386,6 @@ module.exports = function (grunt) {
     'sitemap',
     // 'manifest'
   ]);
-
-  grunt.loadNpmTasks('grunt-include-bootstrap');
 
   grunt.registerTask('default', [
     'newer:jshint',
