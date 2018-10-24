@@ -217,7 +217,8 @@ module.exports = function (grunt) {
             'images/**/*.pdf',
             'styles/fonts/**/*.*'
           ]
-        }, {
+        },
+        {
           expand: true,
           dot: true,
           cwd: 'bower_components/bootstrap/dist',
@@ -229,7 +230,20 @@ module.exports = function (grunt) {
           cwd: 'bower_components/font-awesome/',
           src: ['fonts/*.*'],
           dest: '<%= config.dist %>'
-        }]
+        },
+        {
+          expand: true,
+          dot: true,
+          cwd: 'bower_components/font-awesome/css',
+          src: ['**/*.min.css'],
+          dest: '<%= config.dist %>/styles'
+        },
+      {
+          expand: true,
+          cwd: 'bower_components/bootstrap/less/',
+          src: ['**/*.less'],
+          dest: 'app/styles/bootstrap'
+      }]
       }
     },
 
@@ -290,37 +304,38 @@ module.exports = function (grunt) {
       }
     },
 
-    uncss: {
-      options: {
-        ignore: [
-          /fa/,
-          /btn/,
-          /.in/,
-          /.out/,
-          /#map/,
-          /tito/,
-          /modal/,
-          /footer/,
-          /\.team-member/,
-          /\.img\-circle/,
-          /\.list\-inline/,
-          /\.navbar\-shrink/,
-          /collap/,
-          /\.social\-buttons/
-        ]
-      },
-      dist: {
-        files: [{
-          src: '<%= config.dist %>/index.html',
-          dest: '<%= config.dist %>/styles/main.css'
-        }]
-      }
-    },
+    // uncss: {
+    //   options: {
+    //     ignore: [
+    //       /fa/,
+    //       /btn/,
+    //       /.in/,
+    //       /.out/,
+    //       /#map/,
+    //       /tito/,
+    //       /modal/,
+    //       /footer/,
+    //       /\.team-member/,
+    //       /\.img\-circle/,
+    //       /\.list\-inline/,
+    //       /\.navbar\-shrink/,
+    //       /collap/,
+    //       /\.social\-buttons/
+    //     ]
+    //   },
+    //   dist: {
+    //     files: [{
+    //       src: '<%= config.dist %>/index.html',
+    //       dest: '<%= config.dist %>/styles/main.css'
+    //     }]
+    //   }
+    // },
 
     cssmin: {
       dist: {
         files: [{
-          src: '<%= config.dist %>/styles/main.css',
+          src: ['<%= config.dist %>/styles/main.css',
+          '<%= config.dist %>/styles/font-awesome.min.css'],
           dest: '<%= config.dist %>/styles/main.css'
         }]
       }
@@ -362,13 +377,13 @@ module.exports = function (grunt) {
     'concat',
     'uglify',
     'copy:dist',
-    'uncss',
+    // 'uncss',
     'cssmin:dist',
     'rev',
     'usemin',
     'htmlmin',
     'jsonmin',
-    'sitemap'
+    'sitemap',
     // 'manifest'
   ]);
 
