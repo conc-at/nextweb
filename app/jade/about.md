@@ -7,4 +7,3 @@ Im Laufe der Zeit sind auch immer mehr Themen aus Game Development, UX und VR da
 Der Ablaufplan für wird erst am Tag der Veranstaltung erstellt. Man kann sich vorab vorbereiten, und sollte unbedingt pünktlich zum "Session Planning" erscheinen, um sich einen Platz im Zeitplan zu sichern. Die anwesenden Teilnehmer*innen wählen dann die Talks, Demos bzw. Präsentationen aus, die sie - in den zwei Tracks - sehen wollen.
 
 Es gibt viele Möglichkeiten sich zu beteiligen!
-
