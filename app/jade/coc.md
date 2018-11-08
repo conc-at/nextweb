@@ -2,7 +2,7 @@ Alle Besucher\*innen, Redner\*innen, Sponsor\*innen und Freiwillige auf diesem B
 
 #### Brauchst du Hilfe?
 
-Bitte sende einen Tweet/eine Direktnachricht an [@salzburgwebdev](https://twitter.com/salzburgwebdev) oder schicke eine E-Mail and [Brigitte](mailto:brigitte.jellinek@fh-salzburg.ac.at) oder [Patrick](mailto:pobermueller.mmt-b2015@fh-salzburg.ac.at) oder sprich uns persönlich an.
+Bitte schicke eine E-Mail an [Brigitte](mailto:brigitte.jellinek@fh-salzburg.ac.at) oder [Radomir](mailto:radomir.dinic@fh-salzburg.ac.at) oder sprich uns persönlich an.
 
 #### Die Kurzfassung
 
