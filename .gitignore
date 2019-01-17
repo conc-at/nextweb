@@ -5,6 +5,7 @@
 .idea/
 
 # node
+npm-debug.log
 node_modules/
 
 # bower
